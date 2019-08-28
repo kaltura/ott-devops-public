@@ -1,0 +1,48 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://grafana.kaltura.com/d/qAlC7Cwiz/sg-main-dashboard?orgId=1&refresh=10s",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://grafana.kaltura.com/d/sbsFGZGZz/sg-data-layer?orgId=1&refresh=30s",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://grafana.kaltura.com/d/JsM2nZMWz/or-data-layer?orgId=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://grafana.kaltura.com/d/_TTUz2Yiz/or-main-dashboard?orgId=1&refresh=5s",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://grafana.kaltura.com/d/_qN5FoJiz/vfes-main-dashboard?orgId=1&refresh=5s",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://grafana.kaltura.com/d/uM8YCiGWz/vfes-data-layer?orgId=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },        
+    {
+      "url": "https://grafana.kaltura.com/d/X9h4EuBmz/kcloud-main-dashboard?orgId=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://grafana.kaltura.com/d/HekV4ZMWz/kcloud-data-layer?orgId=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
