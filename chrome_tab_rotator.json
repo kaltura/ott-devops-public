@@ -15,12 +15,12 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://grafana.kaltura.com/d/JsM2nZMWz/or-data-layer?orgId=1",
+      "url": "https://grafana.kaltura.com/d/_TTUz2Yiz/or-main-dashboard?orgId=1&refresh=5s",
       "duration": 60,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://grafana.kaltura.com/d/_TTUz2Yiz/or-main-dashboard?orgId=1&refresh=5s",
+      "url": "https://grafana.kaltura.com/d/JsM2nZMWz/or-data-layer?orgId=1",
       "duration": 60,
       "tabReloadIntervalSeconds": 15
     },
@@ -41,6 +41,16 @@
     },
     {
       "url": "https://grafana.kaltura.com/d/HekV4ZMWz/kcloud-data-layer?orgId=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://grafana.beeline.tv/d/6i15r-umk/veon-main-dashboard?orgId=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://grafana.beeline.tv/d/b39ZbJMWk/data-layer?orgId=1",
       "duration": 60,
       "tabReloadIntervalSeconds": 15
     }
